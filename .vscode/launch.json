@@ -1,0 +1,21 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: Current File",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal",
+      "args": [
+        "0.075",
+        "0.075",
+        "1",
+        "/home/whall/Pictures/SARS-CoV-2/UK_flow/control/stacks/1.nii.gz"
+      ]
+    }
+  ]
+}
